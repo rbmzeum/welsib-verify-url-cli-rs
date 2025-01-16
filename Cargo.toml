@@ -1,0 +1,7 @@
+[package]
+name = "esig-verify-url"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+ureq = "2.12.1"
